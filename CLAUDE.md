@@ -153,3 +153,9 @@ The build system automatically:
 ## Development Practices
 
 - Use conventional commit message style
+- Don't add messages such as:
+```
+🤖 Generated with Claude Code
+
+Co-Authored-By: Claude noreply@anthropic.com
+```

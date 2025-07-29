@@ -28,15 +28,14 @@ learn-doctest/
 │   ├── user_service.cpp
 │   ├── file_processor.hpp  # File processing service
 │   └── file_processor.cpp
-├── tests/              # Test files
-│   ├── 01_basic_tests.cpp
-│   ├── 02_subcases.cpp
-│   ├── 03_bdd_style.cpp
-│   ├── 04_exception_tests.cpp
-│   ├── 05_calculator_tests.cpp
-│   ├── 06_mocking_basic.cpp      # Basic mocking with FakeIt
-│   └── 07_mocking_advanced.cpp   # Advanced mocking scenarios
-└── examples/           # Example usage
+└── tests/              # Test files
+    ├── 01_basic_tests.cpp
+    ├── 02_subcases.cpp
+    ├── 03_bdd_style.cpp
+    ├── 04_exception_tests.cpp
+    ├── 05_calculator_tests.cpp
+    ├── 06_mocking_basic.cpp      # Basic mocking with FakeIt
+    └── 07_mocking_advanced.cpp   # Advanced mocking scenarios
 ```
 
 ## Building and Running Tests
